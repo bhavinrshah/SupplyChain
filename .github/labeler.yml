@@ -6,4 +6,7 @@ label1:
 label2: example2/*
 
 art-relations:
-  - art-relations/**/**/**/**/*
+  - art_relations/**/*
+
+art-relations1:
+  - art_relations/**/*
