@@ -1,6 +1,3 @@
-- name: Labeler
-  uses: actions/labeler@v4.0.0
-
 # Add 'label1' to any changes within 'example' folder or any subfolders
 label1:
 - example/**/*
