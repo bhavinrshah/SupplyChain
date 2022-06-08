@@ -7,3 +7,6 @@ label2: example2/*
 
 art-relations:
   - art_relations/**/*
+
+art-relations1:
+  - art_relations/**/*
