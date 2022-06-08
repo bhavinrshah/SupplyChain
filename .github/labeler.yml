@@ -10,3 +10,6 @@ art-relations:
 
 art-relations1:
   - art_relations/**/*
+
+art_relations:
+  - art_relations/**/*
