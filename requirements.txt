@@ -4,7 +4,7 @@ alchemy-mock==0.4.2
 factory-boy==2.8.1
 Faker==0.7.5
 ipdb==0.13.9
-ipython==7.17.0
+ipython==7.31.1
 moto==3.1.13
 pycodestyle==2.8.0
 pydocstyle==6.1.1
