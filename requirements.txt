@@ -1,0 +1,19 @@
+-i https://pypi.theorchard.io/pypi/
+
+alchemy-mock==0.4.2
+factory-boy==2.8.1
+Faker==0.7.5
+ipdb==0.13.9
+ipython==7.17.0
+moto==3.1.13
+pycodestyle==2.8.0
+pydocstyle==6.1.1
+pytest-cov==3.0.0
+pytest==7.1.2
+pytest-mock==3.7.0
+flake8==4.0.1
+flake8-builtins==1.5.3
+flake8-docstrings==1.6.0
+flake8-import-order==0.18.1
+flake8-quotes==3.3.1
+qa-utils-grass==0.6.1
